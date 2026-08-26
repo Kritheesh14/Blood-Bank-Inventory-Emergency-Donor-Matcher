@@ -1,7 +1,6 @@
-
 # Blood Bank Inventory & Emergency Donor Matcher
 
-## Step 1 - Outcome 
+## Step 1 - Outcome
 
 ### 1. System Identified
 
